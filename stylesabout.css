@@ -33,12 +33,6 @@ li a {
   text-decoration: none;
 }
 
-.title {
-  margin-top: 50px;
-  text-align: center;
-  font-size: 22px;
-}
-
 .section1 {
   margin-top: 50px;
   text-align: center;
@@ -49,11 +43,6 @@ footer {
   text-align: center;
 }
 
-.img-1 {
-  margin-top: 50px;
-  width: 500px;
-}
-
 h1 {
   font-family: 'Wix Madefor Text';
   font-weight: 800;
@@ -62,4 +51,9 @@ h1 {
 h2, p, nav {
   font-family: 'Kanit';
   font-weight: 400;
+}
+
+.img-1 {
+  margin-top: 50px;
+  width: 500px;
 }
